@@ -19,6 +19,7 @@ Resumos estruturados
 Glossário técnico
 Relatório de insights
 Material visual (mapas mentais e imagens)
+
 🎯 2. Objetivos de Estudo
 Compreender os fundamentos da engenharia social
 Identificar técnicas, vetores e riscos relacionados
@@ -26,6 +27,7 @@ Analisar o impacto humano na segurança da informação
 Explorar métodos de prevenção e mitigação
 Criar prompts reutilizáveis para revisões futuras
 Consolidar o estudo utilizando o NotebookLM
+
 📚 3. Curadoria de Fontes
 
 A base de estudo utilizada no NotebookLM está disponível neste repositório.
@@ -53,6 +55,7 @@ https://www.cisa.gov/phishing
 https://www.kaspersky.com.br/resource-center/definitions/what-is-social-engineering
 https://owasp.org/www-project-top-ten/
 https://bibliotecaonline.fanese.edu.br/
+
 🧪 4. Engenharia de Prompts e “Cicatrizes”
 
 Foram elaborados prompts estratégicos para:
@@ -95,6 +98,7 @@ Engenharia social na cibersegurança.png
 Engenharia social na cibersegurança_PT.png
 NotebookLM Mind Map.png
 NotebookLM Mind Map_PT.png
+
 🔁 7. Prompts Reutilizáveis
 
 Conjunto de prompts úteis para futuras revisões:
@@ -108,6 +112,7 @@ explicação
 estudo guiado
 simulação de ataques
 análise defensiva
+
 🧩 8. Estrutura Final do Repositório
 docs/
  ├── anotacoes-notebooklm.md
