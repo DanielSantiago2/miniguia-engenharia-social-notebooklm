@@ -1,196 +1,151 @@
-# 📘 Miniguia de Estudos: Engenharia Social com IA (NotebookLM)
+📘 Mini Guia de Engenharia Social com NotebookLM
 
-## 🎯 Contexto e Objetivos
+Autor: Daniel Ferreira Santiago Alves
 
-A Engenharia Social é uma das principais técnicas utilizadas em ataques cibernéticos, explorando vulnerabilidades humanas em vez de falhas técnicas. Este projeto tem como objetivo utilizar Inteligência Artificial como ferramenta de apoio para estudar, organizar e consolidar conhecimentos sobre o tema.
+Repositório: https://github.com/DanielSantiago2/miniguia-engenharia-social-notebooklm
 
-### Objetivos do Projeto:
+🧠 1. Contexto do Projeto
 
-* Compreender os principais conceitos de Engenharia Social
-* Identificar os tipos mais comuns de ataques
-* Analisar vulnerabilidades humanas exploradas por atacantes
-* Desenvolver estratégias de prevenção
-* Utilizar IA para otimizar o aprendizado e organização do conhecimento
+Este repositório foi criado como entrega do desafio “Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM” da plataforma DIO.
 
----
+O objetivo foi utilizar Inteligência Artificial (NotebookLM) como ferramenta de aprendizagem ativa para estudar o tema Engenharia Social na Cibersegurança.
 
-## 📚 Curadoria de Fontes
+Este caderno temático envolve:
 
-As seguintes fontes foram selecionadas e utilizadas no NotebookLM para construção do conhecimento:
+Curadoria de fontes
+Engenharia de prompts
+Organização do conhecimento
+Resumos estruturados
+Glossário técnico
+Relatório de insights
+Material visual (mapas mentais e imagens)
+🎯 2. Objetivos de Estudo
+Compreender os fundamentos da engenharia social
+Identificar técnicas, vetores e riscos relacionados
+Analisar o impacto humano na segurança da informação
+Explorar métodos de prevenção e mitigação
+Criar prompts reutilizáveis para revisões futuras
+Consolidar o estudo utilizando o NotebookLM
+📚 3. Curadoria de Fontes
 
-1. Cartilha de Segurança para Internet – CERT.br
-   https://cartilha.cert.br/
+A base de estudo utilizada no NotebookLM está disponível neste repositório.
 
-2. Guia de Boas Práticas em Segurança da Informação
-   https://www.gov.br/
+📄 Fontes em PDF
 
-3. Artigo: O que é Engenharia Social (Kaspersky)
-   https://www.kaspersky.com.br/resource-center/definitions/what-is-social-engineering
+(Disponíveis na pasta /fontes
+)
 
-4. Artigo: Phishing e Técnicas de Ataque
-   https://www.cisa.gov/phishing
+Título	Acesso
+Cartilha de Segurança para Internet – CERT.br	PDF
 
-5. Material introdutório sobre Segurança da Informação
-   https://owasp.org/
+Em destaque – CISA (Phishing e Engenharia Social)	PDF
 
----
+O que é Engenharia Social? – Kaspersky	PDF
 
-## 🤖 Uso do NotebookLM
+Projetos – Fundação OWASP	PDF
 
-Os materiais selecionados foram inseridos no NotebookLM para análise e exploração assistida por IA. A ferramenta foi utilizada para:
+The Cognitive Firewall – Defesa Cognitiva	PDF
 
-* Gerar resumos automáticos
-* Comparar informações entre fontes
-* Criar explicações simplificadas
-* Simular cenários de ataques
-* Apoiar na construção de um guia estruturado
+Segurança da Informação e Engenharia Social – FANESE	PDF
+🌐 Fontes Online
+https://cartilha.cert.br/
+https://www.cisa.gov/phishing
+https://www.kaspersky.com.br/resource-center/definitions/what-is-social-engineering
+https://owasp.org/www-project-top-ten/
+https://bibliotecaonline.fanese.edu.br/
+🧪 4. Engenharia de Prompts e “Cicatrizes”
 
----
+Foram elaborados prompts estratégicos para:
 
-## 🧠 Engenharia de Prompts e "Cicatrizes"
+síntese avançada
+comparação de fontes
+extração de conceitos
+criação de mapas mentais
+identificação de vulnerabilidades
+estudo aplicado a cenários reais
 
-### 🔹 Prompts Utilizados
+Registro completo disponível em:
+👉 /docs/prompts.md
 
-```
-Explique o que é engenharia social de forma simples.
-```
+📝 5. Material Consolidado do Estudo
+✔ Resumos Estruturados
 
-```
-Quais são os principais tipos de ataques de engenharia social?
-```
+📄 /docs/resumos.md
 
-```
-Explique phishing com exemplos reais e sinais de alerta.
-```
+✔ Anotações do NotebookLM
 
-```
-Simule um ataque de engenharia social e identifique os pontos de vulnerabilidade.
-```
+📄 /docs/anotacoes-notebooklm.md
 
-```
-Quais estratégias podem ser usadas para prevenir ataques de engenharia social?
-```
+✔ Glossário Técnico
 
----
+📄 /docs/glossario.md
 
-### 🔁 Evolução dos Prompts
+✔ Relatório Final
 
-**Prompt inicial:**
+📄 /docs/relatorio.md
 
-```
-Explique phishing
-```
+🗺️ 6. Imagens e Mapas Mentais
 
-**Problema encontrado:**
+Todo o material visual está na pasta:
+📁 /imagens
 
-* Resposta muito genérica e superficial
+Inclui:
 
-**Prompt melhorado:**
+Engenharia social na cibersegurança.png
+Engenharia social na cibersegurança_PT.png
+NotebookLM Mind Map.png
+NotebookLM Mind Map_PT.png
+🔁 7. Prompts Reutilizáveis
 
-```
-Explique phishing com exemplos reais, sinais de alerta e formas de prevenção.
-```
-
-**Resultado:**
-
-* Resposta mais completa, prática e útil
-
----
-
-### ⚠️ Dificuldades Encontradas (Cicatrizes)
-
-* Respostas iniciais muito vagas
-* Falta de exemplos práticos
-* Necessidade de refinar prompts para obter profundidade
-* Algumas respostas repetitivas
-* Dificuldade em extrair informações específicas sem contexto detalhado
-
----
-
-## 📖 Miniguia de Estudo
-
-### 🧾 Resumo Estruturado
-
-**Engenharia Social:**
-Técnica de manipulação psicológica utilizada para enganar pessoas e obter acesso a informações confidenciais.
-
-**Principais Tipos de Ataque:**
-
-* Phishing
-* Pretexting
-* Baiting
-* Tailgating
-* Spear Phishing
-
-**Objetivo dos Ataques:**
-
-* Roubo de dados
-* Acesso a sistemas
-* Fraudes financeiras
-
-**Principais Alvos:**
-
-* Funcionários de empresas
-* Usuários comuns
-* Organizações com baixo nível de segurança
-
----
-
-### 📚 Glossário
-
-* **Engenharia Social:** Manipulação de pessoas para obter informações confidenciais
-* **Phishing:** Tentativa de roubo de dados por meio de mensagens falsas
-* **Pretexting:** Criação de uma história falsa para enganar a vítima
-* **Baiting:** Uso de iscas para atrair vítimas (ex: arquivos ou dispositivos infectados)
-* **Tailgating:** Acesso físico não autorizado seguindo alguém autorizado
-* **Spear Phishing:** Ataque direcionado a uma pessoa específica
-
----
-
-### 🧩 Prompts Reutilizáveis
-
-```
-Explique [conceito] com exemplos práticos.
-```
-
-```
-Liste riscos e formas de prevenção sobre [tema].
-```
-
-```
-Simule um cenário real envolvendo [tipo de ataque].
-```
-
-```
-Crie um resumo estruturado sobre [assunto].
-```
-
-```
-Explique como identificar sinais de alerta em [tipo de golpe].
-```
-
----
-
-## ✅ Conclusão
-
-Este projeto demonstrou como a Inteligência Artificial pode ser utilizada como ferramenta de aprendizagem ativa, auxiliando na organização, compreensão e aprofundamento de conteúdos complexos como Engenharia Social.
-
-Além disso, evidenciou a importância da engenharia de prompts para obtenção de respostas mais relevantes e detalhadas.
-
----
-
-## 🚀 Próximos Passos
-
-* Aprofundar estudos em Cibersegurança
-* Explorar Pentest e Segurança Ofensiva
-* Realizar cursos práticos na área
-* Aplicar conhecimentos em projetos reais
-
----
-
-## 🧑‍💻 Autor
-
-**Daniel Ferreira Santiago Alves**
-🔗 GitHub: https://github.com/DanielSantiago2/miniguia-engenharia-social-notebooklm
-
----
+Conjunto de prompts úteis para futuras revisões:
+👉 /docs/prompts.md
+
+Incluindo prompts de:
+
+resumo
+comparação
+explicação
+estudo guiado
+simulação de ataques
+análise defensiva
+🧩 8. Estrutura Final do Repositório
+docs/
+ ├── anotacoes-notebooklm.md
+ ├── glossario.md
+ ├── prompts.md
+ ├── relatorio.md
+ └── resumos.md
+
+fontes/
+ ├── Cartilha de Segurança para Internet.pdf
+ ├── Em destaque _ CISA.pdf
+ ├── O que é engenharia social_ _ Definição.pdf
+ ├── Projetos _ Fundação OWASP.pdf
+ ├── The_Cognitive_Firewall.pdf
+ └── p1750016-seguranca-da-informacao...
+
+imagens/
+ ├── Engenharia social na cibersegurança.png
+ ├── Engenharia social na cibersegurança_PT.png
+ ├── NotebookLM Mind Map.png
+ └── NotebookLM Mind Map_PT.png
+
+README.md
+🚀 9. Conclusão
+
+Este projeto demonstra o uso estratégico da Inteligência Artificial como ferramenta de aprendizagem ativa aplicada à cibersegurança.
+
+Além de consolidar conhecimento sobre Engenharia Social, este repositório apresenta:
+
+documentação prática
+organização clara
+fontes confiáveis
+estrutura profissional
+sínteses de alta qualidade
+
+Servindo como referência para estudos contínuos.
+
+👨‍💻 Autor
+
+Daniel Ferreira Santiago Alves
+🔗 GitHub: https://github.com/DanielSantiago2
